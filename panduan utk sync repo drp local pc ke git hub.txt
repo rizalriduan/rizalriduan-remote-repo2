@@ -1,0 +1,7 @@
+1. create folder <masukkan nama folder>
+2. create file
+3. commit seperti biasa
+utk sync pd git hub drp local pc create new repo dkt git hub, guna nama sama repo di local tetapi jgn tick readme
+biar kosong shj.
+5. kemudian slps create copy utk existing cmd yg disediakan pd git hub - copy pd git bash
+6. utk type git remote atai git remote -v 
