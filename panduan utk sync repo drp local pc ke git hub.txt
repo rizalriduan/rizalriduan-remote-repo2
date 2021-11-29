@@ -26,3 +26,5 @@ cth:
 6. setelah selesai seperti biasa git add . kemudian git commit -m dan last git push
 7. double check semula dlm graph dkt local dan tgk semula git hub dkt remote.
 
+test confilct 
+
