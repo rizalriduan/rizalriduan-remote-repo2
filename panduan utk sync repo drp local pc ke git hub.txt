@@ -4,4 +4,14 @@
 utk sync pd git hub drp local pc create new repo dkt git hub, guna nama sama repo di local tetapi jgn tick readme
 biar kosong shj.
 5. kemudian slps create copy utk existing cmd yg disediakan pd git hub - copy pd git bash
-6. utk type git remote atai git remote -v 
+6. utk type git remote atau git remote -v 
+
+cth
+
+git remote add origin https://github.com/rizalriduan/contoh.git
+git push -u origin master 
+
+utk yg terkini default di git hub branch default guna main-->> boleh tukar kpd master (utk samakan di local)
+
+utk tukar nama branch 
+git branch -m <nama branch>
